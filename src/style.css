@@ -95,6 +95,10 @@ hr {
   border: 0;
 }
 
+hr.before-bio {
+  margin-top: 15x0px;
+}
+
 /* Heading */
 
 h1,

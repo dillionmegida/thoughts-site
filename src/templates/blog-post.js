@@ -26,7 +26,7 @@ const BlogPostTemplate = ({
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
-        <hr />
+        <hr className="before-bio" />
         <footer>
           <Bio />
         </footer>
