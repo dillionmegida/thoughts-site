@@ -71,10 +71,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
 
+    const postPath = value.replace(/^(\/\d+\.\s)/, "") // replace the number prefix
+
     createNodeField({
       name: `slug`,
       node,
-      value,
+      value: postPath,
     })
   }
 }
