@@ -11,6 +11,14 @@ const BlogPostTemplate = ({
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
 
+  const postCover = post.frontmatter.cover
+
+  const postCoverUrl = postCover
+    ? postCover.startsWith("https")
+      ? postCover
+      : `/post-covers/${postCover}`
+    : null
+
   return (
     <Layout location={location} title={siteTitle}>
       <article
@@ -21,6 +29,13 @@ const BlogPostTemplate = ({
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
+          {postCoverUrl && (
+            <img
+              className="blog-post-cover"
+              alt={post.frontmatter.title}
+              src={postCoverUrl}
+            />
+          )}
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -62,10 +77,19 @@ const BlogPostTemplate = ({
 }
 
 export const Head = ({ data: { markdownRemark: post } }) => {
+  const postCover = post.frontmatter.cover
+
+  const postCoverUrl = postCover
+    ? postCover.startsWith("https")
+      ? postCover
+      : `/post-covers/${postCover}`
+    : null
+
   return (
     <Seo
       title={post.frontmatter.title}
       description={post.frontmatter.description || post.excerpt}
+      imageCard={postCoverUrl}
     />
   )
 }
@@ -91,6 +115,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        cover
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
