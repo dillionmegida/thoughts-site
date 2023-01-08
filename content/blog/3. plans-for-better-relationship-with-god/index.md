@@ -7,7 +7,9 @@ cover: '3-better-relationship-god.png'
 
 In previous years, I'd usually set different goals for myself--Career, Spiritual, Physical, and maybe Financial. But in 2023, the only thing that rings as better for a "specific goal" is building a better relationship with God.
 
-Of course, I have other general goals like "create more contents", "grow in my career", and so on, but specifically, I want to be more focused on my spiritual life. As I believe that, by getting this right, others will come along.
+Of course, I have other general goals like "create more contents", "grow in my career", and so on, but specifically, I want to be more focused on my spiritual life. As I believe that, by getting this right, others will come along. [Matt 6:33](https://www.bible.com/en-GB/bible/111/mat.6.33) says:
+
+> But seek first his kingdom and his righteousness, and all these things will be given to you as well
 
 ## Journey so far in my Spiritual Life
 
@@ -64,6 +66,8 @@ As I've gotten to understand, however, reading the Bible is a lot of work, espec
 In the past few months, I've learned again that I engage myself with a lot of things, which takes a lot of my time, and then makes me tired whenever I want to do some reading or praying. What I've discovered is that whenever I plan my time well, I find time to do the other things I'd like to do.
 
 So what I plan to do this year is to be more disciplined with my time planning. I will try to ensure that I've done all that I need to do--write articles, make videos, take my piano or Duolingo lessons, and so on--for the day before 11PM. By **11PM**, I start with prayer, then I read my bible. Whatever I don't get to finish before that time, I do it after I'm done with my study time, or I do it the next day.
+
+I'd love to study the Bible in the morning but I've seen that I still feel sleepy and not full active. I'd still start my day with words of prayer, and maybe a bible verse from YouVersion. But study, would be in the evenings.
 
 I'll be starting this today, the 8th of January, and I'll see how it goes. I'll update this article, or create another article where I show my progress, and the adjustments I make along the way.
 
