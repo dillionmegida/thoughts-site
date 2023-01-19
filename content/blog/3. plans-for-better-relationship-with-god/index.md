@@ -48,7 +48,7 @@ That's why I usually depend on devotionals as someone has already done the "thou
 
 But I've learned recently that while reading from people can be great, and easier, learning and having an understanding of your own from scriptures is important. In fact, I believe that the purpose of devotionals, or existing "processed-thoughts" is to guide one to have their understanding as they read (or even, verify) from the Bible.
 
-So to improve my Bible-reading efforts, I've chosen to start reading the Bible with context. Context means that instead of just reading a particular verse, and trying to make meaning out of fit that resonates with me, or waiting for the Holy Spirit to explain that verse, I'll try to learn what the context of the verse means. How do I do that? By going through the whole chapter. And to better understand the context of a chapter, I may even have to go through the whole book.
+So to improve my Bible-reading efforts, I've chosen to start [reading the Bible with context](/reading-the-bible-with-context). Context means that instead of just reading a particular verse, and trying to make meaning out of fit that resonates with me, or waiting for the Holy Spirit to explain that verse, I'll try to learn what the context of the verse means. How do I do that? By going through the whole chapter. And to better understand the context of a chapter, I may even have to go through the whole book.
 
 So what I want to do now is:
 
